@@ -1,9 +1,6 @@
 {
   "version": 2,
   "rewrites": [
-    { 
-      "source": "/:match*", 
-      "destination": "https://kitobkhona-chat.onrender.com*" 
-    }
+    { "source": "/:match*", "destination": "https://kitobkhona-chat.onrender.com*" }
   ]
 }
