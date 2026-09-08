@@ -2,13 +2,5 @@
   "version": 2,
   "rewrites": [
     { "source": "/(.*)", "destination": "https://kitobkhona-chat.onrender.com/$1" }
-  ],
-  "headers": [
-    {
-      "source": "/(.*)",
-      "headers": [
-        { "key": "Host", "value": "kitobkhona-chat.onrender.com" }
-      ]
-    }
   ]
 }
