@@ -3,7 +3,7 @@
   "rewrites": [
     { 
       "source": "/:match*", 
-      "destination": "https://onrender.com*" 
+      "destination": "https://kitobkhona-chat.onrender.com*" 
     }
   ]
 }
